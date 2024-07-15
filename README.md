@@ -5,6 +5,7 @@
 ![GitHub - Seguidores][a]  
 ![Modulo][b]
 [![Meet][me]][m]
+[![Watsapp][wa]][w]
 ## Tabla de contenido:📚
 1. [Introducción al pensamiento computacional][1.p]
     - [Ejercicios][1.e]
@@ -31,7 +32,9 @@ El pensamiento computacional también puede involucrar habilidades como el razon
 [a]: https://img.shields.io/github/followers/Alfonso6z?style=social
 [b]: https://img.shields.io/badge/Alfonso6z-M%C3%B3dulo%201-purple
 [me]: https://img.shields.io/badge/Link-meet-green
+[wa]: https://img.shields.io/badge/Link-whatsapp-green
 [m]: https://meet.google.com/rcj-ratz-fqk
+[w]: https://chat.whatsapp.com/D8HWuDSUdD8A9AUQRdIQWt
 [1.p]: https://www.canva.com/design/DAGEwf3kVYA/JPuWJLGk3uj0K3VRQ7hWZQ/view?utm_content=DAGEwf3kVYA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 [1.e]: 1_introducción_al_pensamiento_computacional/ejercicios
 [2.p]: https://www.canva.com/design/DAGExFlJGqs/kyTRylmSBj0OiIM_Gw41HA/view?utm_content=DAGExFlJGqs&utm_campaign=designshare&utm_medium=link&utm_source=editor
