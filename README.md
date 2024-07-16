@@ -1,7 +1,7 @@
 # Pensamiento Computacional
 
 <!-- _Se puede colocar [Shields](https://shields.io/)_ -->
-
+[FORMULARIO](https://forms.gle/frqHncgBThoXTBYE9)
 ![GitHub - Seguidores][a]  
 ![Modulo][b]
 [![Meet][me]][m]
