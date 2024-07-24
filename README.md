@@ -16,6 +16,10 @@
         - [Caracter][2.1.ca]
         - [Lógico][2.1.lo]
     - [Operadores][2.2.p]
+    - [Diagramas de flujo][2.3.p]
+1. [Estructuras de datos][3.p]
+1. [Estructuras de control][4.p]
+
 
 # Introducción
 
@@ -44,3 +48,5 @@ El pensamiento computacional también puede involucrar habilidades como el razon
 [2.1.ca]: 2_algoritmos_y_resolucion_de_problemas/tipos_de_datos/caracter.md
 [2.1.lo]: 2_algoritmos_y_resolucion_de_problemas/tipos_de_datos/logico.md
 [2.2.p]: https://www.canva.com/design/DAGExR95r98/BRDX4W-3RfdEHp1Aj-JlOg/view?utm_content=DAGExR95r98&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[2.3.p]: https://www.canva.com/design/DAF7qi2v3WQ/MXFTa7-bNsPGsJGc3ni4EA/view?utm_content=DAF7qi2v3WQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[3.p]: https://www.canva.com/design/DAGExtxEvLc/zbCYFn4FUSvkHmq_ZJBWZQ/view?utm_content=DAGExtxEvLc&utm_campaign=designshare&utm_medium=link&utm_source=editor
