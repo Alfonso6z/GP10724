@@ -50,3 +50,4 @@ El pensamiento computacional también puede involucrar habilidades como el razon
 [2.2.p]: https://www.canva.com/design/DAGExR95r98/BRDX4W-3RfdEHp1Aj-JlOg/view?utm_content=DAGExR95r98&utm_campaign=designshare&utm_medium=link&utm_source=editor
 [2.3.p]: https://www.canva.com/design/DAF7qi2v3WQ/MXFTa7-bNsPGsJGc3ni4EA/view?utm_content=DAF7qi2v3WQ&utm_campaign=designshare&utm_medium=link&utm_source=editor
 [3.p]: https://www.canva.com/design/DAGExtxEvLc/zbCYFn4FUSvkHmq_ZJBWZQ/view?utm_content=DAGExtxEvLc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[4.p]: https://www.canva.com/design/DAF7qjBcjV0/gxWHTFO0HDgeMp4aCnjEBw/view?utm_content=DAF7qjBcjV0&utm_campaign=designshare&utm_medium=link&utm_source=editor
