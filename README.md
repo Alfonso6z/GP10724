@@ -43,7 +43,7 @@ El pensamiento computacional también puede involucrar habilidades como el razon
 [b]: https://img.shields.io/badge/Alfonso6z-M%C3%B3dulo%201-purple
 [me]: https://img.shields.io/badge/Link-meet-green
 [wa]: https://img.shields.io/badge/Link-whatsapp-green
-[m]: https://meet.google.com/rcj-ratz-fqk
+[m]: https://meet.google.com/swv-ozzr-cjc
 [w]: https://chat.whatsapp.com/D8HWuDSUdD8A9AUQRdIQWt
 [1.p]: https://www.canva.com/design/DAGEwf3kVYA/JPuWJLGk3uj0K3VRQ7hWZQ/view?utm_content=DAGEwf3kVYA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 [1.e]: 1_introducción_al_pensamiento_computacional/ejercicios
